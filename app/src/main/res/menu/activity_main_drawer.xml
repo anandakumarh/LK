@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <item
+        android:id="@+id/mail_list"
+        android:title="Book an Appointment" />
+
+    <item
+        android:id="@+id/notification_list"
+        android:title="My Appointment" />
+    <item
+        android:id="@+id/my_biils"
+        android:title="My e-bills">
+
+    </item>
+
+    <item
+        android:id="@+id/advice"
+        android:title="Advice">
+    </item>
+
+    <item
+        android:id="@+id/prescription"
+        android:title="Prescription">
+
+    </item>
+
+    <item
+        android:id="@+id/lab_reports"
+        android:title="Lab Reports">
+
+    </item>
+
+    <item
+        android:id="@+id/notification"
+        android:title="Notification">
+
+    </item>
+
+    <item
+        android:id="@+id/feedback"
+        android:title="Feedback">
+
+    </item>
+
+    <item
+        android:id="@+id/contact_us"
+        android:title="Contact us">
+
+    </item>
+</menu>

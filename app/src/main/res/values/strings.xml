@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LendingKart</string>
+
+    <!-- Font Family-->
+    <string name="font_family_roboto_regular">sans-serif</string>
+    <string name="font_family_roboto_light">sans-serif-light</string>
+    <string name="font_family_roboto_thin">sans-serif-thin</string>
+    <string name="font_family_roboto_medium">sans-serif-medium</string>
+    <string name="ok">Ok</string>
+
+</resources>
